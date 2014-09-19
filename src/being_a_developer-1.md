@@ -11,9 +11,7 @@ VerticalAlignment: Top
 
 => Berlin
 
-=> Ruby developer
-
-=> Works @ Asquera
+=> Ruby developer @ [Asquera](http://asquera.de)
 
 => Rubyseeds project group
 
