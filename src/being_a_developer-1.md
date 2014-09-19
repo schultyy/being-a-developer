@@ -9,6 +9,8 @@ VerticalAlignment: Top
 
 => Jan Schulte
 
+=> Berlin
+
 => Ruby developer
 
 => Works @ Asquera
