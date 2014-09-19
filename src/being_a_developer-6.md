@@ -11,4 +11,6 @@ VerticalAlignment: Top
 
 => What are their needs?
 
+=> Translate user requirements into code
+
 => Explain technical things in an understandable way
