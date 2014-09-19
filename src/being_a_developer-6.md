@@ -7,7 +7,7 @@ VerticalAlignment: Top
 ---
 # Talking with users
 
-=> How do they actually use the softare?
+=> How do they actually use the software?
 
 => What are their needs?
 
