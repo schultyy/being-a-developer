@@ -7,5 +7,4 @@ VerticalAlignment: Top
 ---
 <br />
 <br />
-
 # Fix bugs

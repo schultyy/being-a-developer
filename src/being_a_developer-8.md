@@ -7,4 +7,4 @@ VerticalAlignment: Top
 ---
 <br />
 <br />
-# Implement feature requests
+# Implement features

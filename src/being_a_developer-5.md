@@ -13,4 +13,4 @@ VerticalAlignment: Top
 
 => Boss
 
-=> In general, people who have decisional power
+=> People who have decisional power
