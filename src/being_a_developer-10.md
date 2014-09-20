@@ -5,6 +5,6 @@ BackgroundColor: #FFFFFF
 HorizontalAlignment: Center
 VerticalAlignment: Top
 ---
-# Deployment to production
-
-production = Make it available for the end users
+<br />
+<br />
+# Deployments
